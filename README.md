@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LoulouTheKat
+- 👀 I’m interested in cinema
+- 🌱 I’m currently learning coding
